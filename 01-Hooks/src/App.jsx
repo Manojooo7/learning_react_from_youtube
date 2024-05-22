@@ -10,6 +10,9 @@ function App() {
   const addValue = () => {
     // console.log('counter value:', counterValue);
     if(count < 20){
+      // setCount(count+1)
+      setCount(count+1)
+      setCount(count+1)
       setCount(count+1)
     }
   }
